@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Click to Home Page
+title: Jason Cariaga - Home Page
 email: jaymcariaga@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My results from testing out Jekyll's framework with Github Pages! Thank you for coming to my site!
