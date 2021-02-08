@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introduction to my blog and myself!"
+title:  "Jekyll's Tutorial Notes"
 date:   2020-12-16 16:55:31 -0500
 categories: jekyll update
 ---
