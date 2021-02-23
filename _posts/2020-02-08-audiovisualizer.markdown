@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Making an Audio Visualizer with ws2812b!"
-date:   2021-01-08 15:35:31 -0500
+date:   2021-02-08 15:35:31 -0500
 categories: jekyll update
 ---
 Hello fellow reader,
